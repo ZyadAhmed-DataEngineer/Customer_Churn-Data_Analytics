@@ -4,7 +4,7 @@
 
 ## Architecture
 
------ photo ------
+![Architecture](https://github.com/user-attachments/assets/f40f37c3-5f46-4971-af43-b8a439f63bec)
 
 ## Project Overview
 
@@ -19,13 +19,13 @@
 
 ## Technologies Used
 
-$ Amazon S3: Data storage.
-$ AWS Glue: For data cataloging and ETL processing.
-$ Amazon Redshift: Data warehousing for querying and analysis.
-$ Amazon Athena: Ad-hoc querying and analytics on data stored in S3.
-$ Apache Airflow: Workflow automation and orchestration.
-$ Power BI: Data visualization.
-$ Python: Custom ETL scripts.
+$ Amazon S3: Data storage.                                                                                                                            
+$ AWS Glue: For data cataloging and ETL processing.                                                                                                        
+$ Amazon Redshift: Data warehousing for querying and analysis.                                                                                                  
+$ Amazon Athena: Ad-hoc querying and analytics on data stored in S3.                                                                                              
+$ Apache Airflow: Workflow automation and orchestration.                                                                                                          
+$ Power BI: Data visualization.                                                                                                                                        
+$ Python: Custom ETL scripts.                                                                                                                                                 
 
 ## Prerequisites
 
